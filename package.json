@@ -1,0 +1,27 @@
+{
+  "name": "localbitcoin-node-v2",
+  "version": "1.0.0",
+  "description": "Metodos mas usados",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "dependencies": {
+    "querystring": ">=0.2.0",
+    "request": ">=2.27.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elnegrito007/localbitcoin-node.git"
+  },
+  "keywords": [
+    "localbitcoin",
+    "nodejs"
+  ],
+  "author": "carlosariza.com.ve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elnegrito007/localbitcoin-node/issues"
+  },
+  "homepage": "https://github.com/elnegrito007/localbitcoin-node#readme"
+}
